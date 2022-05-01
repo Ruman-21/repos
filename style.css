@@ -1,0 +1,67 @@
+body 
+{
+    background-color: #f1eded;
+    color: #240bfd;
+    font-family: Arial;
+}
+
+h1
+{
+    color: black;
+    font-family: Verdana;
+}
+
+.maindiv
+{
+    background-color: #113aa5fc;
+    color: #faf9f9;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contents
+{
+    margin-left: 80px;
+}
+
+table td
+{
+    padding-bottom: 10px;
+}
+
+#answer
+{
+    margin-bottom: 9px;
+    background-color: rgb(48, 231, 103);
+    color: rgb(8, 8, 8);
+    height: 41px;
+    width: 324px;
+    font-weight: 999;
+}
+#principal{
+    height: 24px;
+    width: 191px;
+}
+
+#years{
+    height: 34px;
+    width: 199px;
+}
+
+#footer
+{
+    margin-top: 11px;
+}
+
+.labels
+{
+    width: 121px;
+}
+
+.highlight
+{
+    background-color: #0a0a01;
+}
